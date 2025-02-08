@@ -4,6 +4,8 @@
 ## **Project Summary**  
 The **Disease Tracking and Management Dashboard** is an advanced visualization tool designed to monitor and analyze disease patterns across various demographics, locations, and time periods. It provides critical insights for healthcare professionals and policymakers to enhance resource allocation and decision-making.  
 
+![HR DASHBOARD](https://github.com/Haywhyluv/Disease-Tacking-and-Management-Dashboard/blob/main/HR%20DASHBOARD.PNG)
+
 ## **Key Objectives**  
 - **Case Monitoring:** Differentiating between confirmed and unconfirmed cases by location and demographic.  
 - **Serotype Distribution:** Analyzing disease variations among affected populations.  
